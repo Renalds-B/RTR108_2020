@@ -1,0 +1,94 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Renalds-B/RTR108
+    4  ls
+    5  cd RTR108
+    6  nano git-upload
+    7  ls
+    8  ..
+    9  ...
+   10  .
+   11  cd ..
+   12  ls
+   13  git clone https://github.com/Renalds-B/RTR108_2020
+   14  cd RTR108_2020
+   15  ls
+   16  nano git-upload
+   17  ls
+   18  chmod 744 git-upload
+   19  ls -l
+   20  nano README.md
+   21  ./git-upload 20200130_1045
+   22  cd ..
+   23  ls -l
+   24  cd RTR108
+   25  rm _archive
+   26  rm-r _archive
+   27  rm -r _archive
+   28  ls
+   29  ls -l
+   30  cd ..
+   31  git-clone https://github.com/Renalds-B/RTR223
+   32  git clone https://github.com/Renalds-B/RTR223
+   33  ls -l
+   34  cd RTR223
+   35  nano git-upload
+   36  chmod 744 git-upload
+   37  ls -l
+   38  cd ..
+   39  ls -l
+   40  cd RTR108
+   41  ls -l
+   42  ..
+   43  cd ..
+   44  ls
+   45  pwd
+   46  cd RTR108
+   47  ls
+   48  cp ETP_check.c /home/user/RTR223
+   49  ls
+   50  rm ETP_check.c
+   51  ls
+   52  cd ..
+   53  ls -l
+   54  cd RTR223
+   55  ls
+   56  mv ETP_check.c 1L_ShemasParbaude.c
+   57  ls -l
+   58  ./git-upload 20200130_1055
+   59  cd ..
+   60  RTR108
+   61  cd RTR108
+   62  ls -l
+   63  ./git-upload 20200130_1058
+   64  cd ..
+   65  rm -rf RTR108_2020
+   66  git clone https://github.com/Renalds-B/RTR108_2020
+   67  ls -l
+   68  cd RTR108_2020
+   69  python
+   70  ipython
+   71  nano python_tests.py
+   72  ls -l
+   73  python python_tests.py
+   74  nano python_tests.py
+   75  python python_tests.py
+   76  python2 python_tests.py
+   77  nano python_tests.py
+   78  python python_tests.py
+   79  ls -l
+   80  cat git-upload
+   81  cp python_tests.py python_tests_auto_exe.py
+   82  ls -r
+   83  ls -l
+   84  nano python_tests_auto_exe.py
+   85  chmod 744  python_tests_auto_exe.py
+   86  ./python_tests_auto_exe.py
+   87  nano python_tests_auto_exe.py
+   88  ./python_tests_auto_exe.py
+   89  idle &
+   90  ls -l
+   91  cat diary_20200130.py
+   92  python2 -m SimpleHTTPServer 8000
+   93  history
+   94  history >> history_20200130.txt
