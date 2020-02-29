@@ -9,20 +9,20 @@ https://github.com/Renalds-B/RTR108_2020/
 
 ## 2. nodarbība
 
-###PY4E pamati I
+### PY4E pamati I
 
 https://www.py4e.com/lessons
  1. līdz 2. sadaļas
 ## 3. nodarbība
 
-###PY4E pamati II
+### PY4E pamati II
 
 https://www.py4e.com/lessons 
  3. līdz 5. sadaļas
 
 ## 4. nodarbība
 
-###PY4E pamati III
+### PY4E pamati III
 
 https://www.py4e.com/lessons 
  6. līdz 8. sadaļas
